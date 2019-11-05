@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/formulario/static/css/main.4111ff4f.chunk.css",
+    "main.js": "/formulario/static/js/main.e27c9210.chunk.js",
+    "main.js.map": "/formulario/static/js/main.e27c9210.chunk.js.map",
+    "runtime-main.js": "/formulario/static/js/runtime-main.d1a6e0f6.js",
+    "runtime-main.js.map": "/formulario/static/js/runtime-main.d1a6e0f6.js.map",
+    "static/js/2.31c3b245.chunk.js": "/formulario/static/js/2.31c3b245.chunk.js",
+    "static/js/2.31c3b245.chunk.js.map": "/formulario/static/js/2.31c3b245.chunk.js.map",
+    "index.html": "/formulario/index.html",
+    "precache-manifest.a241170d9b4ea701b2eb4289d27cde10.js": "/formulario/precache-manifest.a241170d9b4ea701b2eb4289d27cde10.js",
+    "service-worker.js": "/formulario/service-worker.js",
+    "static/css/main.4111ff4f.chunk.css.map": "/formulario/static/css/main.4111ff4f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1a6e0f6.js",
+    "static/js/2.31c3b245.chunk.js",
+    "static/css/main.4111ff4f.chunk.css",
+    "static/js/main.e27c9210.chunk.js"
+  ]
+}
